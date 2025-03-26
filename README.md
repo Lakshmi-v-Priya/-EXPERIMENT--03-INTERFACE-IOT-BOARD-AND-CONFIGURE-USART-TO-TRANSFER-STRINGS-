@@ -57,13 +57,8 @@ PUTCHAR_PROTOTYPE{
 	return ch;
 }
 ```
-
-
-
 ## Output screen shots of Serial port utility   :
- 
- 
- 
+ ![WhatsApp Image 2025-03-26 at 12 07 40_23ea4777](https://github.com/user-attachments/assets/dea60f21-3dc8-4469-9351-a1f430a925a3)
  
 ## Result :
 configuring and usart is accomplished and string data is visualized on the serial port utilty
